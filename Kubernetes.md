@@ -47,8 +47,6 @@ Bước 5:
 ```
 ```bash
 Mô hình :
-                 Bạn
-                  ↓
            nginx-deploy.yaml
                   ↓
           kubectl apply -f ...
