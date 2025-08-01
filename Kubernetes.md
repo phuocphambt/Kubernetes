@@ -1,3 +1,14 @@
+# Mục lục
+
+- [Kubernetes là gì ?](#kubernetes-là-gì-)
+- [Thành phần chính trong Kubernetes là gì ?](#thành-phần-chính-trong-kubernetes-là-gì-)
+- [Mô tả mô hình hoạt động](#mô-tả-mô-hình-hoạt-động-)
+  - [Tình huống đặt ra](#tình-huống-đặt-ra)
+  - [Các bước thực hiện](#các-bước-thực-hiện)
+- [Ví dụ File YAML](#ví-dụ-file-yaml-)
+  - [1. nginx-deploy.yaml](#1-nginx-deployyaml)
+  - [2. nginx-service.yaml](#2-nginx-serviceyaml)
+
 ## Kubernetes là gì ?
 ``` bash
 - Kubernetes là hệ thống quản lý containers (như Docker) theo cụm (cluster)
