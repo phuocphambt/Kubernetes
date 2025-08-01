@@ -19,7 +19,7 @@
 Thành phần chính trong Kubernetes bao gồm : Cluster, Pod, Devployment, Service, kubectl
 ```
 ``` bash
-Giải thích ngắn gọn các thành phần :
+Giải thích thành phần :
 - Cluster: Tập hợp các node hoạt động cùng nhau. Trong đó node chính gọi là master, các node còn lại gọi là worker.
 - Pod: Là đơn vị nhỏ nhất trong K8s. Chứa 1 hoặc nhiều containers, tuy nhiên thường chỉ chạy 1 containers trên 1 pod.
 - Deployment: Quản lý version, số lượng pod, và tự động scale.
