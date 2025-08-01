@@ -6,7 +6,7 @@ Tìm hiểu về:
 - Mô hình hoạt động
 - Ví dụ YAML
 
-→ Xem tại: [Lý thuyết Kubernetes](https://github.com/phuocphambt/Kubernetes/wiki/Lý-thuyết-Kubernetes)
+→ Xem tại: [Lý thuyết Kubernetes](https://github.com/phuocphambt/Kubernetes/blob/main/Kubernetes.md)
 
 ## 2. Thực hành (Lab)
 
@@ -15,4 +15,4 @@ Thực hiện trên Minikube:
 - Tạo cluster
 - Triển khai ứng dụng Nginx
 
-→ Xem tại: [Lab 01 - Cài Minikube và triển khai Nginx](https://github.com/phuocphambt/Kubernetes/wiki/Lab-01---Cài-Minikube-và-triển-khai-Nginx)
+→ Xem tại: [Lab 01 - Cài Minikube và triển khai Nginx](https://github.com/phuocphambt/Kubernetes/blob/main/Kubernetes_lab01.md)
